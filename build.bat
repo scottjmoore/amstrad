@@ -1,2 +1,2 @@
 @echo off
-pasmo -1 --amsdos src/test1.asm out/test1.img
+pasmo -1 --cdtbas src/test1.asm out/test1.tap
